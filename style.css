@@ -236,6 +236,24 @@ html, body {
     letter-spacing: -1px;
 }
 
+#dev {
+    width: 100%;
+    padding: 5vw 15vw;
+}
+
+#dev h1 {
+    font-size: 3.8vw;
+    font-weight: 400;
+    width: 60%;
+    line-height: 1;
+}
+
+#dev p {
+    font-size: 1.5vw;
+    margin-top: 3vw;
+    letter-spacing: -.5px;
+    width: 60%;
+}
 
 
 
