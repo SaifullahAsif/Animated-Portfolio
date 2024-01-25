@@ -3,7 +3,7 @@ Shery.mouseFollower();
 Shery.makeMagnet(".magnet");
 
 Shery.hoverWithMediaCircle(".videohover", {
-    videos: ["./public/videos/Blue and White Illustrative Modern Science and Technology Education Video.mp4"],
+    videos: ["./public/videos/3.mp4"],
   });
   
 
@@ -21,6 +21,7 @@ gsap.to(".fleftelem", {
   y: "-300%",
   ease: Power1,
 });
+
 
 let sections = document.querySelectorAll(".fleftelem");
 Shery.imageEffect(".images", {
